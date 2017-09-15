@@ -1,6 +1,6 @@
 # Short lnk
 
-Link shortener build by Meteor/React
+Link shortener build by Meteor/React from Udemy course
 
 ## Authors
 
